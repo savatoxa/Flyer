@@ -1,0 +1,30 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emory[Cc]aptures/
+/[Rr]ecordings/
+/.utmp/
+
+# Visual Studio / Rider / C# project files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booprof
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
